@@ -20,7 +20,7 @@
         <li><a href="#about"> About </a></li>
         <li><a href="#contact"> Contact </a></li>
         <li><a href="#blog"> Blog </a></li>
-        <li><a> Careers </a></li>
+        <li><a href="#"> Careers </a></li>
       </ul>
 
       <div class="invite">
@@ -143,6 +143,7 @@ body {
     width: 50px;
     height: 50px;
     padding: 13px;
+    cursor: pointer;
   }
 
   .nav > .nav-btn > label > span {
